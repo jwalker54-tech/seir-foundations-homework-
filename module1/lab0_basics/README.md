@@ -1,8 +1,11 @@
 
 Deployment	Public IPv4 address	Connection method	Screenshot	Instance terminated?
-1		3.147.85.89		EC2 Connect	screenshots/deployment-1.png	Yes
-2		3.135.192.64		EC2 Connect	screenshots/deployment-2.png	Yes
-3		3.148.145.181		EC2 Connect	screenshots/deployment-3.png	Yes
+
+First		3.147.85.89		EC2 Connect	screenshots/deployment-1.png	Yes
+
+Second		3.135.192.64		EC2 Connect	screenshots/deployment-2.png	Yes
+
+Third		3.148.145.181		EC2 Connect	screenshots/deployment-3.png	Yes
 
 
 
