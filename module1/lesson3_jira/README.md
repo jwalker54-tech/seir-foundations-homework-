@@ -1,7 +1,7 @@
 | Issue ID |  Issue Type |	Summary |	Description |	Story  point estimate |
 | --- | --- | --- | --- | --- |
 | 1000 |	Epic |	A Day in My Shoes |	Capture one complete typical weekday, from the morning alarm until going to sleep. Represent professional responsibilities, personal care, meals, routine interruptions, household activities, recreation, and rest as manageable blocks of work.	| 2 |
-| 1100 |	Story |	[Morning] | Start My Day |	"Establish a morning routine that prepares me physically and mentally for the day. Complete personal hygiene, get dressed, eat breakfast, check essential notifications, and prepare to transition into the workday. 
+| 1100 |	Story |	[Morning] Start My Day |	"Establish a morning routine that prepares me physically and mentally for the day. Complete personal hygiene, get dressed, eat breakfast, check essential notifications, and prepare to transition into the workday. 
 
 Planned time: 6:30 AM–7:45 AM 
 Done means this block's activities are completed or unfinished items are identified for follow-up." |	5 |
