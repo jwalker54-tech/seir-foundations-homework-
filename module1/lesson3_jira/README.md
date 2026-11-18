@@ -1,6 +1,7 @@
-Issue ID	Issue Type	Summary	Description	Story point estimate
-1000	Epic	A Day in My Shoes	Capture one complete typical weekday, from the morning alarm until going to sleep. Represent professional responsibilities, personal care, meals, routine interruptions, household activities, recreation, and rest as manageable blocks of work.	
-1100	Story	[Morning] Start My Day	"Establish a morning routine that prepares me physically and mentally for the day. Complete personal hygiene, get dressed, eat breakfast, check essential notifications, and prepare to transition into the workday.
+| --- | --- | --- | --- | --- |
+| Issue ID | 	| Issue Type |	Summary |	Description |	Story  point estimate |
+| 1000 |	Epic |	A Day in My Shoes |	Capture one complete typical weekday, from the morning alarm until going to sleep. Represent professional responsibilities, personal care, meals, routine interruptions, household activities, recreation, and rest as manageable blocks of work.	|
+| 1100 |	Story |	[Morning] Start My Day	"Establish a morning routine that prepares me physically and mentally for the day. Complete personal hygiene, get dressed, eat breakfast, check essential notifications, and prepare to transition into the workday. |
 
 Planned time: 6:30 AM–7:45 AM
 Done means this block's activities are completed or unfinished items are identified for follow-up."	5
@@ -68,3 +69,12 @@ Done means this block's activities are completed or unfinished items are identif
 2062	Task	[Bedtime] Prepare clothing and items for tomorrow	Select clothing and organize personal items needed the following morning. Put them in a convenient place so the morning routine can start smoothly.	1
 2063	Task	[Bedtime] Set alarm and review tomorrow's calendar	Set the alarm for the next morning and briefly review the following day's calendar. Identify early meetings, appointments, or priorities that require preparation.	1
 2064	Task	[Bedtime] Get into bed and go to sleep	Get into bed at approximately 10:30 PM and allow time to relax and fall asleep. The day is complete when distractions are put away and I am ready for rest.	2
+
+Space Name: SEIR-Saga_JohnWalker
+
+Space key: SSJ
+
+Total story points: 47
+
+Write up:
+My biggest tasks are being at work and then transitioning from work to home life (overall). That is because I have to manage a team and make sure they do what they are supposed to do as well as my own work. A lot of follow up/follow through. And once I get home, how I then make sure I study, relax, maintain some sort of relationships with friends and such in a limited amount of time can be daunting. 
