@@ -1,6 +1,6 @@
 | Issue ID |  Issue Type |	Summary |	Description |	Story  point estimate |
 | --- | --- | --- | --- | --- |
-| 1000 |	Epic |	A Day in My Shoes |	Capture one complete typical weekday, from the morning alarm until going to sleep. Represent professional responsibilities, personal care, meals, routine interruptions, household activities, recreation, and rest as manageable blocks of work.	|
+| 1000 |	Epic |	A Day in My Shoes |	Capture one complete typical weekday, from the morning alarm until going to sleep. Represent professional responsibilities, personal care, meals, routine interruptions, household activities, recreation, and rest as manageable blocks of work.	| 2 |
 | 1100 |	Story |	[Morning] | Start My Day |	"Establish a morning routine that prepares me physically and mentally for the day. Complete personal hygiene, get dressed, eat breakfast, check essential notifications, and prepare to transition into the workday. 
 
 Planned time: 6:30 AM–7:45 AM 
@@ -9,14 +9,14 @@ Done means this block's activities are completed or unfinished items are identif
 
 Planned time: 7:45 AM–8:00 AM
 Done means this block's activities are completed or unfinished items are identified for follow-up." |	2 |
-1102	Story	[Work - Morning] Begin the Professional Workday	"Begin my remote workday supporting IT operations and functional analysis activities in the DIW/DLA environment. Review priorities, communicate with team members and government stakeholders, attend meetings, and make progress on assigned work.
+| 1102	| Story |	[Work - Morning] | Begin the Professional Workday |	"Begin my remote workday supporting IT operations and functional analysis activities in the DIW/DLA environment. Review priorities, communicate with team members and government stakeholders, attend meetings, and make progress on assigned work.
 
 Planned time: 8:00 AM–12:00 PM
-Done means this block's activities are completed or unfinished items are identified for follow-up."	8
-1103	Story	[Meals] Lunch and Midday Break	"Take a midday break from professional responsibilities to eat, hydrate, and recharge. Step away from the computer, take care of brief personal needs, and return ready to resume work around 1:00 PM.
+Done means this block's activities are completed or unfinished items are identified for follow-up."	| 8 |
+| 1103 |	Story |	[Meals] | Lunch and Midday Break |	"Take a midday break from professional responsibilities to eat, hydrate, and recharge. Step away from the computer, take care of brief personal needs, and return ready to resume work around 1:00 PM.
 
 Planned time: 12:00 PM–1:00 PM
-Done means this block's activities are completed or unfinished items are identified for follow-up."	5
+Done means this block's activities are completed or unfinished items are identified for follow-up." |	5 |
 1104	Story	[Work - Afternoon] Complete Daily Responsibilities	"Resume professional responsibilities and focus on completing assigned work, resolving questions, coordinating with stakeholders, and updating project information. Before logging off, communicate important status changes and identify anything that must carry over.
 
 Planned time: 1:00 PM–5:00 PM
